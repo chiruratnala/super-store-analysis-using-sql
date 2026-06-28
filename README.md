@@ -1,5 +1,8 @@
 # 🛒 Retail Sales Analysis using SQL (Superstore Dataset)
 
+### Report Link : https://thread-roadrunner-2be.notion.site/Superstore-Performance-Analysis-Using-SQL-386e4d184dbf805b86e9eaeca61747cb#386e4d184dbf80b39bc2d773d6ae9058
+
+
 ## 📌 Project Overview
 
 This project analyzes retail sales data using **SQL (MySQL)** to understand sales performance, profitability, customer behavior, discount impact, and seasonal trends. The goal is to extract clear business insights that can support better pricing, customer retention, and sales planning decisions.
