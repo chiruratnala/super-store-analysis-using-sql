@@ -1,6 +1,6 @@
 # 🛒 Retail Sales Analysis using SQL (Superstore Dataset)
 
-### Report Link : https://thread-roadrunner-2be.notion.site/Superstore-Performance-Analysis-Using-SQL-386e4d184dbf805b86e9eaeca61747cb#386e4d184dbf80b39bc2d773d6ae9058
+### Report Link : https://thread-roadrunner-2be.notion.site/Superstore-Performance-Analysis-Using-SQL
 
 
 ## 📌 Project Overview
